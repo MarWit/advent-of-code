@@ -1,0 +1,9 @@
+[package]
+name = "day9"
+version = "0.1.0"
+authors = ["MarWit"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "1.2.0"
+regex = "1"
